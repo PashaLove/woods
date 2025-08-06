@@ -3,7 +3,7 @@ DataTable\Character.edf bae4d57371a6b1b2bb7d41d05a3f22bbbd8ce1f7
 DataTable\en-gb\Map.edf 2200e14b249128d4bf26fc8fb53e587bdcd1d6be
 DataTable\en-gb\NDCharacter.edf e0f9368db8af389030402be600e0f25646574db4
 DataTable\en-gb\NDEventShip.edf bee69c01a631f3174ca99cddd7ab3c673727ce99
-DataTable\en-gb\NDItem.edf 1b37b0b0a792c40b17b6edaffd90318e0ffd8796
+DataTable\en-gb\NDItem.edf fde53c305607d44b90270b34d821e2d6269ec1dd
 DataTable\en-gb\NDItemCash.edf 5b5e8696664b66440a8f6470728aee2e05986fb4
 DataTable\en-gb\NDLanguage.edf 12799e7c9df9a54e2c68d8466eee9476ca962c6f
 DataTable\en-gb\NDMap.edf 0efae6cb256eca24ba71bffd0b1a65427517f563
@@ -11,9 +11,9 @@ DataTable\en-gb\NDMsgEvent.edf 7c2e207fddf8f89b7211b9b2d5c485df4238e4e7
 DataTable\en-gb\NDMsgMonster.edf 0177dcb33a8bcdc91bc771a16b5af3b70d06d875
 DataTable\en-gb\NDQuest.edf 9b6998eb50cc84ecabf0db935c564d691171dd88
 DataTable\en-gb\NDSkillForce.edf 9e149321e51f6a54b43c85f0a85b2329c1d9cdca
-DataTable\en-gb\NDStore.edf ea0d1fa8ff9465f6f0c730374a109b3896697fbf
+DataTable\en-gb\NDStore.edf 5a744bfd2979de22ec5eacb3cb6b1effb4d0783f
 DataTable\EventShip.edf 3b92125d4045106aec3efdfe07d755d5c919ad25
-DataTable\Item.edf c0b5e2519eeb952548238303e8f7bbfc23d5999c
+DataTable\Item.edf c334537f8411919eb0639cc204119d1c86f1d615
 DataTable\ItemCash.edf 5a6fe37412df0971899be46b8aed22df904775ee
 DataTable\ItemCombine.edf 03bc4f6c1158bf411e7dc76f0bbb6e86aa32da34
 DataTable\ItemPremium.edf e75e1ed764f67f93bcf0ec3248c7414ec064897a
@@ -25,7 +25,7 @@ DataTable\PlayerCharacter.edf dbb5224bb20d73f199d679aaa631800bb50a3800
 DataTable\Quest.edf 68342c3567994f62e87a9bf005eb1f4b1ff38298
 DataTable\Resource.edf 4bcfff6f5ef937da412a48bc0d40682bfd251431
 DataTable\SkillForce.edf 1408a82cba3183689a2ea0b476c3d1b222b733ab
-DataTable\Store.edf 9ca44b8a6efd7219abdebb2d2732a8fa8b234df9
+DataTable\Store.edf a4c3e624c46f8f8c022db9f71f8d620ec5d32e83
 rf_online.bin f5de366011dfa5dc5fce0e2af9ee6a44e085776f
 SpriteImage\common\item.spr eef85097cc051a152d0f5ffd0afd0585df7c4397
 SpriteImage\en-gb\item.spr eef85097cc051a152d0f5ffd0afd0585df7c4397
