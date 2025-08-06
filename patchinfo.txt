@@ -3,8 +3,8 @@ DataTable\Character.edf bae4d57371a6b1b2bb7d41d05a3f22bbbd8ce1f7
 DataTable\en-gb\Map.edf 2200e14b249128d4bf26fc8fb53e587bdcd1d6be
 DataTable\en-gb\NDCharacter.edf e0f9368db8af389030402be600e0f25646574db4
 DataTable\en-gb\NDEventShip.edf bee69c01a631f3174ca99cddd7ab3c673727ce99
-DataTable\en-gb\NDItem.edf e0c88be67501cdfd1efe13aa3530d8cbd72f5cbc
-DataTable\en-gb\NDItemCash.edf 11a8fbf68db3c7fcd8a1e7bd4c94adfaa2d9bdf4
+DataTable\en-gb\NDItem.edf 35dade91c72cd6739e9645c2a243b21c791860ae
+DataTable\en-gb\NDItemCash.edf cd8189cfe4eca87eca536e6745af1bcf2d8a976b
 DataTable\en-gb\NDLanguage.edf 12799e7c9df9a54e2c68d8466eee9476ca962c6f
 DataTable\en-gb\NDMap.edf 0efae6cb256eca24ba71bffd0b1a65427517f563
 DataTable\en-gb\NDMsgEvent.edf 7c2e207fddf8f89b7211b9b2d5c485df4238e4e7
@@ -13,8 +13,8 @@ DataTable\en-gb\NDQuest.edf 9b6998eb50cc84ecabf0db935c564d691171dd88
 DataTable\en-gb\NDSkillForce.edf 9e149321e51f6a54b43c85f0a85b2329c1d9cdca
 DataTable\en-gb\NDStore.edf 5a744bfd2979de22ec5eacb3cb6b1effb4d0783f
 DataTable\EventShip.edf 3b92125d4045106aec3efdfe07d755d5c919ad25
-DataTable\Item.edf 6c8e08346b9492883b0e4a6cdd8a2331dd1f0832
-DataTable\ItemCash.edf 3ed3bb5f6f268ec07d8f06fa5b5277c88b96a1f6
+DataTable\Item.edf 0e4dc9027488f4a804c32fe2fa4c2daa097947da
+DataTable\ItemCash.edf 3cccf824c95be4e4da6f86d31415678127a372ce
 DataTable\ItemCombine.edf 03bc4f6c1158bf411e7dc76f0bbb6e86aa32da34
 DataTable\ItemPremium.edf e75e1ed764f67f93bcf0ec3248c7414ec064897a
 DataTable\ItemSetEffect.edf 14040476132acd73919ae67a920b642258fc9e05
