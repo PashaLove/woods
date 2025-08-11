@@ -27,4 +27,4 @@ DataTable\Resource.edf 4bcfff6f5ef937da412a48bc0d40682bfd251431
 DataTable\SkillForce.edf 6a6d7fa37e7e5503f6ffa87c9d74d59a7c9d2e68
 DataTable\Store.edf a4c3e624c46f8f8c022db9f71f8d620ec5d32e83
 rf_online.bin f5de366011dfa5dc5fce0e2af9ee6a44e085776f
-SpriteImage\common\item.spr 90e7c1a6c6d8147a770e6fc21d90b65e651b2a52
+SpriteImage\Common\item.spr 90e7c1a6c6d8147a770e6fc21d90b65e651b2a52
