@@ -3,7 +3,7 @@ DataTable\Character.edf 4e28991e9513c0da59cf23d0070f74169c74e1ec
 DataTable\en-gb\Map.edf 2200e14b249128d4bf26fc8fb53e587bdcd1d6be
 DataTable\en-gb\NDCharacter.edf df5c0498f6a032d7b9a29f17e46e39a6ab213960
 DataTable\en-gb\NDEventShip.edf e7c00d15fb676a8b4ac8e981155c9deb8d655b77
-DataTable\en-gb\NDItem.edf 47ff62fb94bd454ad2d2a6bde8320d6fc140e036
+DataTable\en-gb\NDItem.edf e442ffe22bd5168744cc045cc5f25a962ee56abe
 DataTable\en-gb\NDItemCash.edf 9ea407f354f203d9231a6e7bf39be5b61c6a98ce
 DataTable\en-gb\NDLanguage.edf d486b3bd4b72c983c9032a6f1163a4de7644c9f0
 DataTable\en-gb\NDMap.edf 1ee01c22c668d1f3de17bda543c62bd75c207e1f
@@ -11,9 +11,9 @@ DataTable\en-gb\NDMsgEvent.edf 8899dd2b658a523c6db8f5ce2f5779b9dd10cbcc
 DataTable\en-gb\NDMsgMonster.edf 5525ce1fc51c11180275ae3f78d4716e09e51ad5
 DataTable\en-gb\NDQuest.edf f2f3b38cb86958e75c51c0e121e139ca8c87a700
 DataTable\en-gb\NDSkillForce.edf cffc61d671925ba0125bdf08191302529ff9f5b0
-DataTable\en-gb\NDStore.edf d4ba3d7f901c879c7901c58d650f5f88e4c83b55
+DataTable\en-gb\NDStore.edf 656ddae5627befc83c561bcae90b565ef41990bd
 DataTable\EventShip.edf b6022de081223cd2ddaf384c8f13aae3290f42c7
-DataTable\Item.edf e21ec62e5fa5d53e50d4daf4bf7d9a91231625a4
+DataTable\Item.edf fd1b1f15ca6c6a76feb0d43e40329fedc1ceafd6
 DataTable\ItemCash.edf 4538b302bbcf51505bbe6f55a2c93569fedb521f
 DataTable\ItemCombine.edf 9428027e69806c5c66ce8a8a77ec0c09dfee7bcb
 DataTable\ItemPremium.edf 8bfc8d94d872d5e38cbbabca7470878e7ac9cc1f
@@ -25,7 +25,7 @@ DataTable\PlayerCharacter.edf 5f5658a1264f886ab616c48bd013c08900d88f19
 DataTable\Quest.edf 8fb16f71ea7107bf450c8fd74b6665621edc8f93
 DataTable\Resource.edf b8a2405c5dc3c7b7d23aca5ecfab6a3e401b6cb1
 DataTable\SkillForce.edf 6eb5821f757babd0ed2dcff923d6de3732dd33f7
-DataTable\Store.edf a87cc18d771fced5228750969820128693697ae8
+DataTable\Store.edf ce557581d05ee5496f2c8d1831b8ca0151426e55
 rf_online.bin f5de366011dfa5dc5fce0e2af9ee6a44e085776f
 SpriteImage\Common\item.spr 9b44efa4833ece1bb61056f2c33bbdd182e437ab
 SpriteImage\item.spr 9b44efa4833ece1bb61056f2c33bbdd182e437ab
