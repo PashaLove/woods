@@ -1,3 +1,4 @@
+d3d9.dll fa962742453d77d8bca2ad61618ddfe857d5b88a
 DataTable\Character.edf 3ef156c9158b64465f50484377b2fc08471d05cc
 DataTable\en-gb\Map.edf 2200e14b249128d4bf26fc8fb53e587bdcd1d6be
 DataTable\en-gb\NDCharacter.edf cbb70d3cd91446b81f41c77601f48425f09dfc96
