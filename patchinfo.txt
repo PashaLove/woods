@@ -10,7 +10,7 @@ DataTable\en-gb\NDMsgEvent.edf eb116d370cf798c7801aa478f4f10ed4b599a82d
 DataTable\en-gb\NDMsgMonster.edf 6053a6964afdad0cbf1b58be6481ab0ed33ff758
 DataTable\en-gb\NDQuest.edf d12c7cdf9271f8ec7a0b4c42ea3e9714c5d14d1b
 DataTable\en-gb\NDSkillForce.edf b4d576742397e09e09832339e8938f5cbab7d474
-DataTable\en-gb\NDStore.edf d93814386344c5c089ed9483721dcdeeb70d198d
+DataTable\en-gb\NDStore.edf dffbf35d4e89612c6a593c0b43bca09c374442e9
 DataTable\en-gb\ui.lang 5239dec37f078ea2bd40377a7e7110dc4471d7f4
 DataTable\EventShip.edf a767223278f4e459dbf4245eaee4cf07cce956e9
 DataTable\Item.edf b0a84a245b09732bf0d0afc850e59fe16b993385
@@ -25,7 +25,7 @@ DataTable\PlayerCharacter.edf 4942898ed83929001c09ea95b56ef4d9ce855883
 DataTable\Quest.edf 0da61cf0a8805c76f5a1d666aaaa8faa37470686
 DataTable\Resource.edf 22f885542801bda49c9ac4a2046b649be587f23d
 DataTable\SkillForce.edf 8992c0a26c0256121cf80da3bcf74cb74849a6c3
-DataTable\Store.edf 8b04668a907830f9d26d0ab6e27b55be893e4d35
+DataTable\Store.edf 7d6df54c8977e9c4d37f30801d1c924fb28fa393
 rf_online.bin 37d2f69e4db75ce53b68fe707f25128e4c80c7e8
 SpriteImage\Common\item.spr 2acec5048b02031fb6e193e1a55103ddfba7b053
 SpriteImage\Common\map\Elan2_Field.spr eed8293b9abd50e7fc0b1e7a98d8701d9f8dcfa9
