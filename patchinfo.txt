@@ -2,7 +2,7 @@ d3d9.dll fa962742453d77d8bca2ad61618ddfe857d5b88a
 DataTable\Character.edf 6a2ead7ce97be567b7a244accb2df397a45467eb
 DataTable\en-gb\NDCharacter.edf a44d72d4b3079b3b2b14649e3bfeebbc9c70d658
 DataTable\en-gb\NDEventShip.edf 03acee8f116a648fd1af9b60d30dfd0f58f28ad1
-DataTable\en-gb\NDItem.edf 9aa6870b9df39920e931782d25e95b83f13ccdda
+DataTable\en-gb\NDItem.edf c1320d38407ae28e63e5771ff2ff281e479c644a
 DataTable\en-gb\NDItemCash.edf 0c90ddbf504bd9db3b458b33c741d30aee2eba1d
 DataTable\en-gb\NDLanguage.edf 65ccff48a6bebd9bb5af355036fa15c2a2fd0328
 DataTable\en-gb\NDMap.edf ed5769eacea691b3d248fe37c844a5853145979a
@@ -10,10 +10,10 @@ DataTable\en-gb\NDMsgEvent.edf eb116d370cf798c7801aa478f4f10ed4b599a82d
 DataTable\en-gb\NDMsgMonster.edf 6053a6964afdad0cbf1b58be6481ab0ed33ff758
 DataTable\en-gb\NDQuest.edf d12c7cdf9271f8ec7a0b4c42ea3e9714c5d14d1b
 DataTable\en-gb\NDSkillForce.edf b4d576742397e09e09832339e8938f5cbab7d474
-DataTable\en-gb\NDStore.edf 30027082192eac9608cc04302a18160c45ae5b53
+DataTable\en-gb\NDStore.edf d93814386344c5c089ed9483721dcdeeb70d198d
 DataTable\en-gb\ui.lang 5239dec37f078ea2bd40377a7e7110dc4471d7f4
 DataTable\EventShip.edf a767223278f4e459dbf4245eaee4cf07cce956e9
-DataTable\Item.edf def6106380d47d0208cb40d08ae9b8e632b02c7d
+DataTable\Item.edf b0a84a245b09732bf0d0afc850e59fe16b993385
 DataTable\ItemCash.edf 74a842a4b99dfd58431e2d90c0adba1eff641f10
 DataTable\ItemCombine.edf f4d75de46edacfbeeb2fd8d32a5da457653d444f
 DataTable\ItemPremium.edf ac7a8983c28340ab6f1f881e536fb75011c51935
@@ -25,7 +25,7 @@ DataTable\PlayerCharacter.edf 4942898ed83929001c09ea95b56ef4d9ce855883
 DataTable\Quest.edf 0da61cf0a8805c76f5a1d666aaaa8faa37470686
 DataTable\Resource.edf 22f885542801bda49c9ac4a2046b649be587f23d
 DataTable\SkillForce.edf 8992c0a26c0256121cf80da3bcf74cb74849a6c3
-DataTable\Store.edf e93c5a27fd86eac74f90c856801c224f2ff85418
+DataTable\Store.edf 8b04668a907830f9d26d0ab6e27b55be893e4d35
 rf_online.bin 37d2f69e4db75ce53b68fe707f25128e4c80c7e8
 SpriteImage\Common\item.spr 2acec5048b02031fb6e193e1a55103ddfba7b053
 SpriteImage\Common\map\Elan2_Field.spr eed8293b9abd50e7fc0b1e7a98d8701d9f8dcfa9
