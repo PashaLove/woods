@@ -2,7 +2,7 @@ d3d9.dll fa962742453d77d8bca2ad61618ddfe857d5b88a
 DataTable\Character.edf db9d7cc21ad8b2153815397e1cafdfbd558174d6
 DataTable\en-gb\NDCharacter.edf 51af2d701b1975addfdbc18bd0c2ef2b184108d0
 DataTable\en-gb\NDEventShip.edf b3edac3b5c1e780d6af30ec9d832f8158c46a58f
-DataTable\en-gb\NDItem.edf de3220e7881037144062c77c23976f2be3128e0a
+DataTable\en-gb\NDItem.edf 4b005b23deef1725c5efa1c367ed41aae8050162
 DataTable\en-gb\NDItemCash.edf e2e31ccc6cfebcc39be21959c43a20a7f92dfc8f
 DataTable\en-gb\NDLanguage.edf d9721bf00b076e28937781c58a7fa9890e3b88dd
 DataTable\en-gb\NDMap.edf b0a718d08df416dad278c767dfe1f6eec761bb59
@@ -10,10 +10,10 @@ DataTable\en-gb\NDMsgEvent.edf 170af98836259c97237f72836136ef89654eda8b
 DataTable\en-gb\NDMsgMonster.edf 76837e48feee9340ceee6501a48fbefa1f59c784
 DataTable\en-gb\NDQuest.edf a1389897e90c2162aa08c965626e124dcd261b84
 DataTable\en-gb\NDSkillForce.edf f936f1ee514fdd3603cae6cb2aaddde8b7e65faa
-DataTable\en-gb\NDStore.edf a4d6fce509aa0423923df69ed34bbc30b2bf0544
+DataTable\en-gb\NDStore.edf 918f248e0f28558b482d494a7581bc9a250504e9
 DataTable\en-gb\ui.lang 5239dec37f078ea2bd40377a7e7110dc4471d7f4
 DataTable\EventShip.edf 0536babaaf582ee6280adaee5726023c48c66a26
-DataTable\Item.edf 5603b8e17647b50a5b990b5911abcf5374cf0bc2
+DataTable\Item.edf cd4127dc5fa8cbf76bed74db88ddaa2baecf4689
 DataTable\ItemCash.edf 5a8aa5a5a9f753985f1deecdc9b1639bb68ad358
 DataTable\ItemCombine.edf 7e8e0d4b9d967f227e97b3993f60429f17eb4f67
 DataTable\ItemPremium.edf a0be845b2a751f0b28a1647a316200d3886a5288
@@ -25,7 +25,7 @@ DataTable\PlayerCharacter.edf 8c6b5e9f5c62cc728846c8677d79cd5ec933e528
 DataTable\Quest.edf f08d0007c974957489fc4584e6e236959fffedc6
 DataTable\Resource.edf 5ff81b719a8450363798fc2d565d150786cd7f64
 DataTable\SkillForce.edf f31b9eba674f7e3c044fcaee9f25bfb00167f7d8
-DataTable\Store.edf 49dc059a1cad845e53fc97915c6e15f401bff1f2
+DataTable\Store.edf 5249a62c37dc458d6528ce015b8b69f8efe55da5
 map\Cora2\Cora2.bsp 02461d51233f5331d45480a515889f3ca1303c17
 map\Cora2\Cora2.ebp 86ca22fced740ede2aa82dcdcaf8ac78622e7778
 map\Cora2\Cora2.r3m 7be5f587b378b4e6298597bb5ed08f6d5ea30604
@@ -662,7 +662,7 @@ map\Cora2\tex\tani_hp_y_02_395.mst ecc5efe3b90005b1fc071450c16a7b83830251b2
 map\Cora2\tex\water_bump.dds a9ae4e63acba7f483013961b6d52b362e45255fb
 map\Cora2\_Cora2EXT.spt c7941864c3eeac3493b6c7beb5c71b7f03e5f6e9
 rf_online.bin 37d2f69e4db75ce53b68fe707f25128e4c80c7e8
-SpriteImage\Common\item.spr 2acec5048b02031fb6e193e1a55103ddfba7b053
+SpriteImage\Common\item.spr 803da3d1d0332566ea1786cbecc2a9225ba326b7
 SpriteImage\Common\Loading\CORA2.dds 75f8277a4dba240d34cbca3735c9746a37be0a0a
 SpriteImage\Common\map\Cora2.spr 88bafb3edc585fb6c2dbc99dc73afd3c5cf606d3
 SpriteImage\Common\map\Elan2_Field.spr eed8293b9abd50e7fc0b1e7a98d8701d9f8dcfa9
