@@ -10,7 +10,7 @@ DataTable\en-gb\NDMsgEvent.edf 0d6ca630df36c64104af0947714f21daa5db3ae2
 DataTable\en-gb\NDMsgMonster.edf 47e220ebaf264c4da66e465f282c8f1d8a3124ad
 DataTable\en-gb\NDQuest.edf 40d2898d61a0cbd5262f523fef4ebbad998015be
 DataTable\en-gb\NDSkillForce.edf b3ef07ac6ffaa5bc07b0235f7fcf9027f7518935
-DataTable\en-gb\NDStore.edf a7c0255d8711c5e0afafb900ee1a9aa262632c6b
+DataTable\en-gb\NDStore.edf 7e2355672f216ddbe869dfc5d34e8e5999064360
 DataTable\en-gb\ui.lang 5239dec37f078ea2bd40377a7e7110dc4471d7f4
 DataTable\EventShip.edf 9d48d0a47d6d79d82175f3da679d5709f2e23250
 DataTable\Item.edf 0add6bcb2d6f901126ad1b1f561f78dcf992e48d
@@ -25,7 +25,7 @@ DataTable\PlayerCharacter.edf 3c2e6a71c8ced27e4b0cfb6c936ac7fdba703081
 DataTable\Quest.edf 1d5b93039656853c7808646a03ee260899271d38
 DataTable\Resource.edf bd6aaee2ddcff97e78f4766bd543078d907d4fe6
 DataTable\SkillForce.edf 6ecbe2d4dc49065d026770763618bc1686f64765
-DataTable\Store.edf aee530350ece7946be681e94637cdf913c35bf52
+DataTable\Store.edf a9dd86c20d86e01948cc3541ea3949bcf4c51978
 map\Cora2\Cora2.bsp 02461d51233f5331d45480a515889f3ca1303c17
 map\Cora2\Cora2.ebp 86ca22fced740ede2aa82dcdcaf8ac78622e7778
 map\Cora2\Cora2.r3m 7be5f587b378b4e6298597bb5ed08f6d5ea30604
