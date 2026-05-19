@@ -1,4 +1,3 @@
-d3d9.dll fa962742453d77d8bca2ad61618ddfe857d5b88a
 DataTable\Character.edf 3891e902a01d374a8f0d377978f1108683986c59
 DataTable\EffectEx.edf 9b62657b0bf10b37cb5dfbfb0c6bf6d5a465a706
 DataTable\en-gb\ar.scp 6d77484c3578bd30b37ad156d59d166cc4550bb1
