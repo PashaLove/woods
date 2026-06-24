@@ -34,7 +34,7 @@ DataTable\en-gb\LauncherMessage.ini a483b3b11be06b24e7fc29ae3fba9cb2801a8b4f
 DataTable\en-gb\MAPDATA.DAT 0d08fe290ea110e5b341dc6926fb7ce806b6a722
 DataTable\en-gb\NDCharacter.edf 32892bce165fcff3cd4f0510b28e802644b023cb
 DataTable\en-gb\NDEventShip.edf 7e5dc89b5f66a26039a37fd3fb5c66266e897e2f
-DataTable\en-gb\NDItem.edf d79cfab75774a110120b8c4823e857fe3b752785
+DataTable\en-gb\NDItem.edf 2126dda5b209ae287385aedcb40cdc4306b77916
 DataTable\en-gb\NDItemCash.edf 7ca1854c165f450124ba05cd048403e7c9675764
 DataTable\en-gb\ndlangex.json c50f12affc198a4337b7b815de268ef8299957f1
 DataTable\en-gb\NDLanguage.edf dab4d2c3fc0f7d78095c6cedc1e48acc1bcdd2be
@@ -43,7 +43,7 @@ DataTable\en-gb\NDMsgEvent.edf e82f52f41a38f0d413f675b87af075a687c58631
 DataTable\en-gb\NDMsgMonster.edf 285f294fabbaf5b1c4b56ce81e0fcfad673656a4
 DataTable\en-gb\NDQuest.edf f5b8e9516c3742998d8977bfeb8c1e7aa9be1389
 DataTable\en-gb\NDSkillForce.edf b5508d857590876b06b4c1cdc75e9a48579e7bc1
-DataTable\en-gb\NDStore.edf a34b6b463e785d5b398c33e38c6cab496fd5da14
+DataTable\en-gb\NDStore.edf a146648339957d27f6f9fb1dd9a3b3fb4fc6261a
 DataTable\en-gb\npc_button.ini a8bef2f2bf203555412dac208e7599c1b1b2f4a4
 DataTable\en-gb\PcRoom.edf 8f12688b27b744e3ebf60d664cae6b6313100e7f
 DataTable\en-gb\Player.edf 82772204ccd5d33d28157c54169d16fd5fcb543e
@@ -62,7 +62,7 @@ DataTable\EventSound.edf 3ca5ea9d3d1e30a71b54ec5b59bc129b2d4c3ac5
 DataTable\FastCombination.edf 1c845114c401557c7bb9b012f0d4dfaa2f02424b
 DataTable\GearScore.edf 5a8d29806de0f1dece1572a24feb2547c56b2c97
 DataTable\GemSockets.edf bb764cbd7c982887683294daf777866585dbca8f
-DataTable\Item.edf 89b9fcfe4e71207d6ec618bf5276fa976f911969
+DataTable\Item.edf 6f4ba6326af32613c73c166905968eef7f6564aa
 DataTable\ItemCash.edf 06b0a79022cc0bf0464d682a571b0d624349581d
 DataTable\ItemCombine.edf e30b6c859825c7e2e5f77c58cb15d417debd1231
 DataTable\ItemPremium.edf 4e74b129492472e27d5094fc4c9e473b80a2088a
@@ -77,7 +77,7 @@ DataTable\RadiusView.edf 8e14f45316689d1cae2fdf2cb680e5500886e592
 DataTable\Resource.edf 80769248c628d2f7b293854d1ab8d584698c83d1
 DataTable\SetItemEffectNew.edf 77d426b7a0c7a813bf9911aab0626c997feed68a
 DataTable\SkillForce.edf 189d78b06e63e866e5f35371ce9fada4f8985700
-DataTable\Store.edf 67f7b593088209225c3b7613f5f0c53d057bd8e3
+DataTable\Store.edf 02422bd3b0d08242c47f3336e28e0746ce659e01
 DataTable\Transmog.edf 5e36c9d19475ae2069768dcac5b69f9f3cef1a50
 RF_Online.bin 8f8efed9acdd64cf4f577f6050b8b1af3f2ed965
 SpriteImage\Common\item.spr c80ba502a989802af654127618abf543f1592c5f
