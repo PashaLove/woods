@@ -31,7 +31,6 @@ DataTable\en-gb\Iua.dic 05077743cbd0d8a56c84656963d145e0a795d333
 DataTable\en-gb\KeyMap.dat 207cc7f81403838148ed44e9d3f74eb8701c79b9
 DataTable\en-gb\KeyMap_NKM.dat 781b44b3243247755a8880bf6a98bf49da221122
 DataTable\en-gb\LauncherMessage.ini a483b3b11be06b24e7fc29ae3fba9cb2801a8b4f
-DataTable\en-gb\Map FUNCIONANDO.edf 28798d26d4cc5e3754d026d1204f8f928433e966
 DataTable\en-gb\MAPDATA.DAT 0d08fe290ea110e5b341dc6926fb7ce806b6a722
 DataTable\en-gb\NDCharacter.edf 32892bce165fcff3cd4f0510b28e802644b023cb
 DataTable\en-gb\NDEventShip.edf 7e5dc89b5f66a26039a37fd3fb5c66266e897e2f
@@ -70,9 +69,6 @@ DataTable\ItemCombine.edf 2887d483d5ea07d65947ab03ee98205d3e587166
 DataTable\ItemPremium.edf 4e74b129492472e27d5094fc4c9e473b80a2088a
 DataTable\ItemSetEffect.edf 8c59f4814106a1fb453a8d42949eb6c44ec76407
 DataTable\ItemTimer.edf 141a19a3915051d527a6c51b529aac0c00b3807b
-DataTable\Map - Copia.edf d78fa0de738da4d89a3ad3794eafd5f673e119c6
-DataTable\Map backupzao.edf d78fa0de738da4d89a3ad3794eafd5f673e119c6
-DataTable\Map funcionadoOOO.edf d78fa0de738da4d89a3ad3794eafd5f673e119c6
 DataTable\Map.edf d78fa0de738da4d89a3ad3794eafd5f673e119c6
 DataTable\memory_patch.bin ec705f59761e20e50e104a4d794051cacf84d7a0
 DataTable\MsgEvent.edf deff4e763d51cfefaade02c8e22c24e53c131270
