@@ -43,7 +43,7 @@ DataTable\en-gb\NDMsgEvent.edf e82f52f41a38f0d413f675b87af075a687c58631
 DataTable\en-gb\NDMsgMonster.edf 285f294fabbaf5b1c4b56ce81e0fcfad673656a4
 DataTable\en-gb\NDQuest.edf f5b8e9516c3742998d8977bfeb8c1e7aa9be1389
 DataTable\en-gb\NDSkillForce.edf a8130ea961dd6f2cf87c1b5bb711d019d77a1db4
-DataTable\en-gb\NDStore.edf c3ad21b6b38ff41abe3c6c575d5f526098e3b5db
+DataTable\en-gb\NDStore.edf 79321e22cacbe30259cb8b6cc2d0c7c976f14240
 DataTable\en-gb\npc_button.ini a8bef2f2bf203555412dac208e7599c1b1b2f4a4
 DataTable\en-gb\PcRoom.edf 8f12688b27b744e3ebf60d664cae6b6313100e7f
 DataTable\en-gb\Player.edf 82772204ccd5d33d28157c54169d16fd5fcb543e
@@ -78,7 +78,7 @@ DataTable\RadiusView.edf 8e14f45316689d1cae2fdf2cb680e5500886e592
 DataTable\Resource.edf 80769248c628d2f7b293854d1ab8d584698c83d1
 DataTable\SetItemEffectNew.edf 1be5c554331a6578ba82b406161f97ef6ee72b08
 DataTable\SkillForce.edf 1fc32dce93593e90fd14c09f5bac009e3812e232
-DataTable\Store.edf 7c7981cb0f72820841b6753b0e6446d52f2245ed
+DataTable\Store.edf fde47f2d8ac1869f4e8920ea3aa14429f95d664f
 DataTable\Transmog.edf 5e36c9d19475ae2069768dcac5b69f9f3cef1a50
 RF_Online.bin 8f8efed9acdd64cf4f577f6050b8b1af3f2ed965
 SpriteImage\Common\item.spr c80ba502a989802af654127618abf543f1592c5f
