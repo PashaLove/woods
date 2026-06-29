@@ -70,7 +70,7 @@ DataTable\en-gb\NDCharacter.edf 32892bce165fcff3cd4f0510b28e802644b023cb
 DataTable\en-gb\NDCharacter.edf.tmp b0c0305f5db67e1f45829aa25a875c97752ef928
 DataTable\en-gb\NDEventShip.edf 7e5dc89b5f66a26039a37fd3fb5c66266e897e2f
 DataTable\en-gb\NDEventShip.edf.tmp 26e817c206ab9bdaeb2ed43e2df2aea030dc748f
-DataTable\en-gb\NDItem.edf 7e3455ee89be295df5d4315c8af4e97a73461c63
+DataTable\en-gb\NDItem.edf f86e548b226ac2deec04db87de862261606c28c2
 DataTable\en-gb\NDItem.edf.tmp eca648b3c8490c7da0d1128c3cca139a932aa826
 DataTable\en-gb\NDItemCash.edf d716e5fdd4c0aaa8b9d03c41aec5364f06e54a27
 DataTable\en-gb\NDItemCash.edf.tmp 59193b62a55529de5beeebdf1f1059f58d89f97a
@@ -128,11 +128,11 @@ DataTable\GearScore.edf 5a8d29806de0f1dece1572a24feb2547c56b2c97
 DataTable\GearScore.edf.tmp ae0726b6c2d2d28641594cb05612ba56131b1348
 DataTable\GemSockets.edf bb764cbd7c982887683294daf777866585dbca8f
 DataTable\GemSockets.edf.tmp f56a07805d219fcc1c922a32ec3c2a06aef80da3
-DataTable\Item.edf 732a3be4f6d397011d8492e681ccb4f94ac92a46
+DataTable\Item.edf 903bd3af16283beb3eba5636d55a2f15d3af0104
 DataTable\Item.edf.tmp a7f09c184a0d87c02ba8101d8ca45fa9efba32ae
 DataTable\ItemCash.edf cf1bd13dd217ef9324c196030e7a1b7538bd90b9
 DataTable\ItemCash.edf.tmp 3f8df120858ce98020f15632d6cec0946af4a2f8
-DataTable\ItemCombine.edf 5ee5c55af818415d015a4ba7e14f96fd4682b175
+DataTable\ItemCombine.edf 583c2f7f7ee72c48bec1852c66b2c00d4cc777c2
 DataTable\ItemCombine.edf.tmp be0772ad8a9d481df7d3c44d869edd6e1e8cb152
 DataTable\ItemPremium.edf 4e74b129492472e27d5094fc4c9e473b80a2088a
 DataTable\ItemPremium.edf.tmp 1c5921aeb1c5ef55fb8284deec98fcc5fda0df29
@@ -284,4 +284,4 @@ RF_Online.bin 8f8efed9acdd64cf4f577f6050b8b1af3f2ed965
 SpriteImage\Common\item.spr c80ba502a989802af654127618abf543f1592c5f
 SpriteImage\Common\Loading\CORA2.dds 75f8277a4dba240d34cbca3735c9746a37be0a0a
 SpriteImage\Common\map\Elan_Field.spr eed8293b9abd50e7fc0b1e7a98d8701d9f8dcfa9
-System\memory_patch.bin ec705f59761e20e50e104a4d794051cacf84d7a0
+System\memory_patch.bin 33dbec0a4612321434000809c6eb2eb12438341b
