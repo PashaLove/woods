@@ -70,7 +70,7 @@ DataTable\en-gb\NDCharacter.edf 32892bce165fcff3cd4f0510b28e802644b023cb
 DataTable\en-gb\NDCharacter.edf.tmp b0c0305f5db67e1f45829aa25a875c97752ef928
 DataTable\en-gb\NDEventShip.edf 7e5dc89b5f66a26039a37fd3fb5c66266e897e2f
 DataTable\en-gb\NDEventShip.edf.tmp 26e817c206ab9bdaeb2ed43e2df2aea030dc748f
-DataTable\en-gb\NDItem.edf f86e548b226ac2deec04db87de862261606c28c2
+DataTable\en-gb\NDItem.edf 08c3b48be16f5b8b162065d006e3f13020c6a8cf
 DataTable\en-gb\NDItem.edf.tmp eca648b3c8490c7da0d1128c3cca139a932aa826
 DataTable\en-gb\NDItemCash.edf d716e5fdd4c0aaa8b9d03c41aec5364f06e54a27
 DataTable\en-gb\NDItemCash.edf.tmp 59193b62a55529de5beeebdf1f1059f58d89f97a
@@ -132,7 +132,7 @@ DataTable\Item.edf 903bd3af16283beb3eba5636d55a2f15d3af0104
 DataTable\Item.edf.tmp a7f09c184a0d87c02ba8101d8ca45fa9efba32ae
 DataTable\ItemCash.edf cf1bd13dd217ef9324c196030e7a1b7538bd90b9
 DataTable\ItemCash.edf.tmp 3f8df120858ce98020f15632d6cec0946af4a2f8
-DataTable\ItemCombine.edf 583c2f7f7ee72c48bec1852c66b2c00d4cc777c2
+DataTable\ItemCombine.edf fac13682a3add470cec1b772ad32c3c8a48be955
 DataTable\ItemCombine.edf.tmp be0772ad8a9d481df7d3c44d869edd6e1e8cb152
 DataTable\ItemPremium.edf 4e74b129492472e27d5094fc4c9e473b80a2088a
 DataTable\ItemPremium.edf.tmp 1c5921aeb1c5ef55fb8284deec98fcc5fda0df29
