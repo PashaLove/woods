@@ -34,7 +34,7 @@ DataTable\en-gb\LauncherMessage.ini a483b3b11be06b24e7fc29ae3fba9cb2801a8b4f
 DataTable\en-gb\MAPDATA.DAT 0d08fe290ea110e5b341dc6926fb7ce806b6a722
 DataTable\en-gb\NDCharacter.edf 81d59541e481ea471b6b0bd53bd3489716cdd3db
 DataTable\en-gb\NDEventShip.edf 7e5dc89b5f66a26039a37fd3fb5c66266e897e2f
-DataTable\en-gb\NDItem.edf 29d74bc074eaac60f7b7dfceda0618a923ea8720
+DataTable\en-gb\NDItem.edf 9bfa49facec5c6db2b5ab789eb1f7835d3109295
 DataTable\en-gb\NDItemCash.edf 7746740cc1ec42bd7a5bc0191e72b7a7e1fa60fc
 DataTable\en-gb\ndlangex.json c50f12affc198a4337b7b815de268ef8299957f1
 DataTable\en-gb\NDLanguage.edf dab4d2c3fc0f7d78095c6cedc1e48acc1bcdd2be
@@ -63,7 +63,7 @@ DataTable\EventSound.edf 3ca5ea9d3d1e30a71b54ec5b59bc129b2d4c3ac5
 DataTable\FastCombination.edf 62c673d52537bf51fbd02ff0fe99fbc3b453e3f3
 DataTable\GearScore.edf 3715ba77cdb5ceb560afcd84ab2d779b241f1fb6
 DataTable\GemSockets.edf 356205612f253f7551578b0dbcb4cff147e91878
-DataTable\Item.edf 94d60452b64b959d2a5edeb3f77a61411d971897
+DataTable\Item.edf 50b6382d0a91ffe42f91b3c51ae2bd0ab0d2daa6
 DataTable\ItemCash.edf 6385531048b5d14509f44e2e02ea00d123b8b70c
 DataTable\ItemCombine.edf dd8f8e10efd74242a04d6c05cf6a41a3e9a674db
 DataTable\ItemPremium.edf 4e74b129492472e27d5094fc4c9e473b80a2088a
