@@ -35,8 +35,8 @@ DataTable\en-gb\LauncherMessage.ini a483b3b11be06b24e7fc29ae3fba9cb2801a8b4f
 DataTable\en-gb\MAPDATA.DAT 0d08fe290ea110e5b341dc6926fb7ce806b6a722
 DataTable\en-gb\NDCharacter.edf 21c330f8f5ad837f4d23c653bab62b1906806699
 DataTable\en-gb\NDEventShip.edf 2e8883cf66e1393aab88c2c529f6a6484d9b59f2
-DataTable\en-gb\NDItem.edf d854835d431c23e1f7ebef651eb2f4bfe7b5fe29
-DataTable\en-gb\NDItemCash.edf efd8269926bb64b35750fb439c03c7d7e0281f7f
+DataTable\en-gb\NDItem.edf feeb98b7469a10f813a0f1e9143020c454ab671d
+DataTable\en-gb\NDItemCash.edf 66eb6218d3534af1e9ef54d034ac364a72ee66ef
 DataTable\en-gb\ndlangex.json c50f12affc198a4337b7b815de268ef8299957f1
 DataTable\en-gb\NDLanguage.edf d56fd2efc72b49b73a6db7ed683d4a157f151405
 DataTable\en-gb\NDMap.edf 8038856179a9ae14c841c4cdc7cd8c3e667c7b0f
@@ -44,7 +44,7 @@ DataTable\en-gb\NDMsgEvent.edf 4bdb0cb02c6b10f24784e7eb7b9906887a66e6cf
 DataTable\en-gb\NDMsgMonster.edf fec3d69667ac1f5934591098ff0f1e93e4bdc9bd
 DataTable\en-gb\NDQuest.edf fb2726e98440597ceb063d50cc7fc58604191875
 DataTable\en-gb\NDSkillForce.edf fe9aabd839f1191072e810208e5ab8fa0b4749ca
-DataTable\en-gb\NDStore.edf 802105aa5383f503be55b3e7dfbe87ddf0e94531
+DataTable\en-gb\NDStore.edf b1d5c365473093460bb1816634ea753ef972d95a
 DataTable\en-gb\npc_button.ini a8bef2f2bf203555412dac208e7599c1b1b2f4a4
 DataTable\en-gb\PcRoom.edf 8f12688b27b744e3ebf60d664cae6b6313100e7f
 DataTable\en-gb\Player.edf 82772204ccd5d33d28157c54169d16fd5fcb543e
@@ -64,9 +64,9 @@ DataTable\EventSound.edf 3ca5ea9d3d1e30a71b54ec5b59bc129b2d4c3ac5
 DataTable\FastCombination.edf 9d337167c4959f41225cbe80640e76bd0ec2d0f8
 DataTable\GearScore.edf 3715ba77cdb5ceb560afcd84ab2d779b241f1fb6
 DataTable\GemSockets.edf 2f4cf9d0cc19108ace96842c76e46845cb6f9e09
-DataTable\Item.edf c2f8b0732ea97b0513e0588ad547f527d89ece54
-DataTable\ItemCash.edf b1065a94ba9fc0c44d9d2ac4cfabfad7e28d7f4c
-DataTable\ItemCombine.edf fb84e3be1345b4064b1c150c4edc43ecf1d94470
+DataTable\Item.edf e89c0e3f20304fcb6544de7c6533da38f1489c1f
+DataTable\ItemCash.edf 0e059f2c245408924d091e6af7f5001c0cf494c7
+DataTable\ItemCombine.edf e35086c0b51618efe02e20b3877de3b9fb274721
 DataTable\ItemPremium.edf 11bf159b9d4bf30f7f1606c9cc42fc468678780e
 DataTable\ItemSetEffect.edf a805cbdc96ffdd0dbd5dbd61dfce4b07c068d486
 DataTable\ItemTimer.edf 2b5dfa29af21242129c99f76400b8e4066d38710
@@ -79,7 +79,7 @@ DataTable\RadiusView.edf 90ccec6390d799d8fbf3aa1aada74c92e2cebf1a
 DataTable\Resource.edf e9fcd8d389bd2e494d6fccaf3e60a1edb0401ee3
 DataTable\SetItemEffectNew.edf 77d426b7a0c7a813bf9911aab0626c997feed68a
 DataTable\SkillForce.edf 266a87f703b5a26ba71b61b74dc456b8ff80466d
-DataTable\Store.edf 4a8cf9a25e8f495fccd7c98223303311627c3abe
+DataTable\Store.edf 1a14d8964d69035cb6ffaff2e23a0dc330e16131
 DataTable\Transmog.edf 5e36c9d19475ae2069768dcac5b69f9f3cef1a50
 Map\Elan\Elan.BSP 7d5a5b71c1ef23b1a4ab13077495211eb58932fe
 Map\Elan\Elan.ebp 5c5c46cee850097dd7aa38fc04eb86a274316d6e
