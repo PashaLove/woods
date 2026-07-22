@@ -38,7 +38,7 @@ DataTable\en-gb\NDEventShip.edf 2e8883cf66e1393aab88c2c529f6a6484d9b59f2
 DataTable\en-gb\NDItem.edf feeb98b7469a10f813a0f1e9143020c454ab671d
 DataTable\en-gb\NDItemCash.edf 66eb6218d3534af1e9ef54d034ac364a72ee66ef
 DataTable\en-gb\ndlangex.json c50f12affc198a4337b7b815de268ef8299957f1
-DataTable\en-gb\NDLanguage.edf d56fd2efc72b49b73a6db7ed683d4a157f151405
+DataTable\en-gb\NDLanguage.edf 34891bb5f262058d6698796180e65d03d711c4a3
 DataTable\en-gb\NDMap.edf 8038856179a9ae14c841c4cdc7cd8c3e667c7b0f
 DataTable\en-gb\NDMsgEvent.edf 4bdb0cb02c6b10f24784e7eb7b9906887a66e6cf
 DataTable\en-gb\NDMsgMonster.edf fec3d69667ac1f5934591098ff0f1e93e4bdc9bd
